@@ -43,4 +43,4 @@ const onFormSubmit = (event) => {
 collectData();
 
 form.addEventListener('submit', onFormSubmit);
-form.addEventListener('input', onFormInput);;;;;
+form.addEventListener('input', onFormInput);
